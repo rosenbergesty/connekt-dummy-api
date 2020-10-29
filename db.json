@@ -1,0 +1,14 @@
+{
+  "authorization": {
+    "token_type": "Bearer",
+    "access_token": 1,
+    "expires_in": 3600,
+    "consented_on": 1603923129,
+  },
+  "addDevice": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+  ],
+  "activation": {
+    "name": "typicode"
+  }
+}
